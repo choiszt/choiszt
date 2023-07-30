@@ -1,5 +1,6 @@
 ### Hi there 👋
 🔭 I’m currently working on scene graph generation and VLM for Embodied Agent.
+📫 How to reach me: ls2001927@bupt.edu.cn
 <!--
 **choiszt/choiszt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
