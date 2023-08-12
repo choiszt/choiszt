@@ -3,7 +3,7 @@
 
 📫 How to reach me: ls2001927@bupt.edu.cn
 
-💬 Lifelong learning:** Making AI agent act like human**.
+💬 Lifelong learning: **Making AI agent act like human**.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=choiszt)
 <!--
