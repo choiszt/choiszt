@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently working on scene graph generation and VLM for Embodied Agent.  
+🔭 I’m currently working on Scene Graph Generation and VLM for Embodied Agent.  
 
 📫 How to reach me: ls2001927@bupt.edu.cn
 
