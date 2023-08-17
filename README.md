@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I am a 3rd-year student at BUPT as an Artificial Intelligence Major, currently specializing in Scene Graph Generation and VLM for Embodied Agent. Currently, I am working as an Undergraduate Research in the NTU@MMLAB Group. My goal is to **Making AI agent 🤖 act like human and help others live better lives**.
+I am a 3rd-year student at BUPT as an Artificial Intelligence Major, currently specializing in Scene Graph Generation and VLM for Embodied Agent. Currently, I am working as an Undergraduate Research in the NTU@MMLAB Group. 
+
+My goal is to **Making AI agent 🤖 act like human and help others live better lives**.
 
 📫 How to reach me: ls2001927@bupt.edu.cn
 
