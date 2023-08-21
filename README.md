@@ -5,7 +5,6 @@ I am a 3rd-year student at BUPT as an Artificial Intelligence Major, specializin
 My goal is to make an AI agent 🤖 behave like a human, thereby helping others lead better lives.
 
 ![kagikn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=choiszt&show_icons=true&title_color=FF80BF&text_color=F8F8F2&icon_color=8AFF80&bg_color=212C2A)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choiszt&title_color=FF80BF&text_color=F8F8F2&icon_color=8AFF80&bg_color=212C2A&layout=compact)
 
 📫 How to reach me: ls2001927@bupt.edu.cn
