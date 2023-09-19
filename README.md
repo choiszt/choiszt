@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a 4th-year student at BUPT as an Artificial Intelligence Major, specializing in Scene Graph Generation and VLM for Embodied Agent. Currently, I am working as an Undergraduate Research in the NTU@MMLAB Group. 
+I am a 4th-year student at BUPT as an Artificial Intelligence Major
 
 **My goal is to make an AI agent 🤖 behave like a human, thereby helping others lead better lives.**
 
@@ -11,7 +11,7 @@ I am a 4th-year student at BUPT as an Artificial Intelligence Major, specializin
 
 <!--
 **choiszt/choiszt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+, specializing in Scene Graph Generation and VLM for Embodied Agent. Currently, I am working as an Undergraduate Research in the NTU@MMLAB Group. 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
