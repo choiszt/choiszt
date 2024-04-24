@@ -2,7 +2,7 @@
 
 I am a 4th-year student at BUPT as an Artificial Intelligence Major. 
 
-🔭 Recently I'm focusing on Generalist Embodied Agent.
+🔭 Recently I'm focusing on Generalist Embodied Agents and LMMs.
 
 **🌟 My goal is to make an AI agent 🤖 behave like human, thereby helping others lead better lives.**
 
