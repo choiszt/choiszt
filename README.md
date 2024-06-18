@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am incoming MEng student at MMLab@NTU. I am fortunate to be advised by [Prof. Ziwei Liu](https://liuziwei7.github.io/) and to have received kind and valuable guidance from [Jingkang Yang](https://jingkang50.github.io/) and [Bo Li](https://brianboli.com/).
+I am incoming MEng student at MMLab@NTU. I am fortunate and grateful to be advised by [Prof. Ziwei Liu](https://liuziwei7.github.io/) and to have received kind and valuable guidance from [Jingkang Yang](https://jingkang50.github.io/) and [Bo Li](https://brianboli.com/).
 
 🔭 Recently I'm focusing on Generalist Vision Model and LMMs.
 
