@@ -1,6 +1,7 @@
+<!--
 ### Hi there 👋
 
-I am an MEng student at MMLab@NTU. I am fortunate and grateful to be advised by [Prof. Ziwei Liu](https://liuziwei7.github.io/) and to have received kind and valuable guidance from [Jingkang Yang](https://jingkang50.github.io/) and [Bo Li](https://brianboli.com/).
+I am an MEng student at MMLab@NTU, supervised by [Prof. Ziwei Liu](https://liuziwei7.github.io/) and work with [Jingkang Yang](https://jingkang50.github.io/) and [Bo Li](https://brianboli.com/).
 
 **🔭 Recently I'm focusing on Embodied Intelligence and feeling the LMMs.**
 
@@ -13,7 +14,6 @@ I am an MEng student at MMLab@NTU. I am fortunate and grateful to be advised by 
 
 --
 📫 How to reach me: ls2001927@gmail.com
-<!--
 ![Choiszt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=choiszt&show_icons=true&title_color=FF80BF&text_color=F8F8F2&icon_color=8AFF80&bg_color=212C2A)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choiszt&title_color=FF80BF&text_color=F8F8F2&icon_color=8AFF80&bg_color=212C2A&layout=compact)
 
