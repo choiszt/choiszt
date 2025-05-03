@@ -1,8 +1,6 @@
 
 <a href="https://github.com/choiszt/github-stats">
-<img src="https://github.com/choiszt/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-[![trophy](https://github-profile-trophy.vercel.app/?username=choiszt&column=7)](https://github.com/choiszt)
-</a>
+<img src="https://github.com/choiszt/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" /></a>
 <!--
 
 
