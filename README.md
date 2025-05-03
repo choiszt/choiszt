@@ -1,10 +1,7 @@
-<a href="https://github.com/connor9994/GitHub-Language-Stats">
-<img src="https://github.com/connor9994/GitHub-Language-Stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/connor9994/GitHub-Language-Stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+<a href="https://github.com/choiszt/github-stats">
+<img src="https://github.com/choiszt/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/choiszt/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 </a>
-
-
-### Hi there 👋
 ![Profile Views](https://komarev.com/ghpvc/?username=choiszt)
 
 <!--
