@@ -1,8 +1,13 @@
+
+<a href="https://github.com/choiszt/github-stats">
+<img src="https://github.com/choiszt/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/choiszt/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
+<!--
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=choiszt&column=7)](https://github.com/choiszt)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=choiszt&show_icons=true&hide_border=true" />  
-<!--
-
 
 ![](https://komarev.com/ghpvc/?username=choiszt&label=PROFILE+VIEWS)
 
