@@ -1,7 +1,4 @@
-<a href="https://github.com/choiszt/github-stats">
-<img src="https://github.com/choiszt/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/choiszt/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-</a>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
