@@ -2,7 +2,7 @@
 <img src="https://github.com/choiszt/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://github.com/choiszt/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 </a>
-
+[![Choiszt's GitHub stats](https://github-readme-stats.vercel.app/api?username=choiszt)](https://github.com/anuraghazra/github-readme-stats)
 ![Profile Views](https://komarev.com/ghpvc/?username=choiszt)
 
 <!--
