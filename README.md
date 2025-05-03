@@ -16,7 +16,14 @@
          alt="Choiszt's GitHub Stats" 
          style="height: 200px;" />
   </a>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=choiszt&repo=github-readme-stats" 
+         alt="Pinned Repo: github-readme-stats" 
+         style="height: 200px;" />
+  </a>
 </div>
+
 
 <!--
 
