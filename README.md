@@ -1,7 +1,7 @@
 <a href="https://github.com/choiszt/github-stats">
   <img src="https://github.com/choiszt/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" 
        alt="GitHub Stats Overview" 
-       style="height: 150px; vertical-align: middle;" />
+       style="height: 180px; vertical-align: middle;" />
 </a>
 
 <a href="https://github.com/choiszt">
