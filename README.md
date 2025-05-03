@@ -1,3 +1,9 @@
+<p>
+  I am a M.Eng. student at <a href="https://www.mmlab-ntu.com/" target="_blank">MMLab@NTU</a> and a member of 
+  <a href="https://www.lmms-lab.com/" target="_blank">LMMs-Lab</a>. <br>
+  You can find my profile at <a href="https://choiszt.github.io" target="_blank">choiszt.github.io</a> — feel free to check it out! 
+</p>
+
 <div style="display: flex; gap: 10px; align-items: center;">
   <a href="https://github.com/choiszt/github-stats">
     <img src="https://github.com/choiszt/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" 
@@ -11,13 +17,6 @@
          style="height: 200px;" />
   </a>
 </div>
-
-<p>
-  I am a M.Eng. student at <a href="https://www.mmlab-ntu.com/" target="_blank">MMLab@NTU</a> and a member of 
-  <a href="https://www.lmms-lab.com/" target="_blank">LMMs-Lab</a>. <br>
-  You can find my profile at <a href="https://choiszt.github.io" target="_blank">choiszt.github.io</a> — feel free to check it out! 
-</p>
-
 
 <!--
 
