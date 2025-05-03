@@ -1,6 +1,11 @@
-
 <a href="https://github.com/choiszt/github-stats">
-<img src="https://github.com/choiszt/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" /></a>
+  <img src="https://github.com/choiszt/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats Overview" />
+</a>
+
+<a href="https://github.com/choiszt">
+  <img src="https://github-readme-stats.vercel.app/api?username=choiszt&include_all_commits=true&show_icons=true&theme=onedark" alt="Choiszt's GitHub Stats" />
+</a>
+
 <!--
 
 
