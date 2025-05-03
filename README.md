@@ -1,5 +1,5 @@
 
-![Choiszt's GitHub stats](https://github-readme-stats.vercel.app/api?username=choiszt&include_all_commits=true)
+![Choiszt's GitHub stats](https://github-readme-stats.vercel.app/api?username=choiszt&include_all_commits=true&show_icons=true)
 
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=choiszt&column=7)](https://github.com/choiszt)
