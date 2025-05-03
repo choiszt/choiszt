@@ -1,14 +1,22 @@
-<a href="https://github.com/choiszt/github-stats">
-  <img src="https://github.com/choiszt/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" 
-       alt="GitHub Stats Overview" 
-       style="height: 200px; vertical-align: middle;" />
-</a>
+<div style="display: flex; gap: 10px; align-items: center;">
+  <a href="https://github.com/choiszt/github-stats">
+    <img src="https://github.com/choiszt/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" 
+         alt="GitHub Stats Overview" 
+         style="height: 200px;" />
+  </a>
 
-<a href="https://github.com/choiszt">
-  <img src="https://github-readme-stats.vercel.app/api?username=choiszt&include_all_commits=true&show_icons=true&theme=onedark" 
-       alt="Choiszt's GitHub Stats" 
-       style="height: 200px; vertical-align: middle;" />
-</a>
+  <a href="https://github.com/choiszt">
+    <img src="https://github-readme-stats.vercel.app/api?username=choiszt&include_all_commits=true&show_icons=true&theme=onedark" 
+         alt="Choiszt's GitHub Stats" 
+         style="height: 200px;" />
+  </a>
+</div>
+
+<p>
+  I am a M.Eng. student at <a href="https://www.mmlab-ntu.com/" target="_blank">MMLab@NTU</a> and a member of 
+  <a href="https://www.lmms-lab.com/" target="_blank">LMMs-Lab</a>. <br>
+  You can find my profile at <a href="https://choiszt.github.io" target="_blank">choiszt.github.io</a> — feel free to check it out! 
+</p>
 
 
 <!--
