@@ -1,6 +1,6 @@
 <p>My name is Liu Shuai, and I am a MPhil student at <a href="https://www.mmlab-ntu.com/" target="_blank">MMLab@NTU</a>, Singapore.</p>
 
-<p>🔍 My research focus on <strong>Multimodal Language Models</strong> and <strong>Egocentric AI</strong>.<br>
+<p>🔍 My research focus on <strong>Multimodality</strong> and <strong>Egocentric AI</strong>.<br>
 As a member of  <a href="https://www.lmms-lab.com/" target="_blank">LMMs-Lab</a> , I am on an exciting journey towards LMMs and feeling the AGI.</p>
 Besides, I'm on my way to becoming a full-stack developer (with VibeCoding 😎), and spend 2% of my free time developing webgames.
 
