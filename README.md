@@ -7,7 +7,7 @@ Besides, I'm on my way to becoming a full-stack developer (with VibeCoding 😎)
 <!-- Start of Selection -->
 <!-- Start of Selection -->
 <h2>🚀 Previous Projects:</h2>
-
+<p><strong><em>✨Stay Tuned for more wonderful research. ✨</em></strong></p>
 <!-- Project 1: Aero-1 -->
 <a href="https://github.com/EvolvingLMMs-Lab/Aero-1" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin?username=EvolvingLMMs-Lab&repo=Aero-1&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Aero-1 Card" />
@@ -47,7 +47,7 @@ Besides, I'm on my way to becoming a full-stack developer (with VibeCoding 😎)
 </a>
 <blockquote>
   <p>There, I learned the philosophy of 🕸️<strong>LMMs Evaluation</strong> and gained valuable development experience in multinode model inference and multiprocessing for evaluation.</p>
-  <p><strong><em>✨Stay Tuned for more wonderful research. ✨</em></strong></p>
+  
 </blockquote>
 <hr />
 
