@@ -23,17 +23,6 @@ Besides, I'm on my way to becoming a full-stack developer (with VibeCoding 😎)
         </ul>
       </blockquote>
     </td>
-    <td style="vertical-align: top; width: 50%; padding-left: 10px;">
-      <a href="https://github.com/EvolvingLMMs-Lab/EgoLife">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=EvolvingLMMs-Lab&repo=EgoLife&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"
-             style="height: 150px;" />
-      </a>
-      <blockquote>
-        <p>In the journey towards creating 👓 <strong>egocentric life-long intelligence</strong>, I gained experience curating and training egocentric MLLMs with multimodal inputs (audio, video, IMU, etc.).</p>
-      </blockquote>
-    </td>
-  </tr>
-  <tr>
     <td style="vertical-align: top; width: 50%; padding-right: 10px;">
       <a href="https://github.com/dongyh20/Octopus">
         <img src="https://github-readme-stats.vercel.app/api/pin?username=dongyh20&repo=Octopus&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"
@@ -42,6 +31,17 @@ Besides, I'm on my way to becoming a full-stack developer (with VibeCoding 😎)
       <blockquote>
         <p>Gained experience in utilizing VLMs for embodied code execution.</p>
         <p>Also worked as a temporary 🎮 game developer, compiling C# plugins for GTA-V and TypeScript for Minecraft.</p>
+      </blockquote>
+    </td>
+  </tr>
+  <tr>
+      <td style="vertical-align: top; width: 50%; padding-left: 10px;">
+      <a href="https://github.com/EvolvingLMMs-Lab/EgoLife">
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=EvolvingLMMs-Lab&repo=EgoLife&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"
+             style="height: 150px;" />
+      </a>
+      <blockquote>
+        <p>In the journey towards creating 👓 <strong>egocentric life-long intelligence</strong>, I gained experience curating and training egocentric MLLMs with multimodal inputs (audio, video, IMU, etc.).</p>
       </blockquote>
     </td>
     <td style="vertical-align: top; width: 50%; padding-left: 10px;">
