@@ -25,7 +25,7 @@ Besides, I'm on my way to becoming a full-stack developer (with VibeCoding 😎)
 <img src="https://github-readme-stats.vercel.app/api/pin?username=EvolvingLMMs-Lab&repo=lmms-eval&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Customized Card" />
 <p>There, I learned the philosophy of 🕸️LMMs Evaluation and gained valuable development experience in multinode model inference and multiprocessing for evaluation. 
 
-✨Stay Tuned for more wonderful research. ✨
+<p><strong><em>✨Stay Tuned for more wonderful research. ✨</em></strong></p>
 </p>
 <hr />
 
