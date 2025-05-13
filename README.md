@@ -4,60 +4,51 @@
 As a member of  <a href="https://www.lmms-lab.com/" target="_blank">LMMs-Lab</a> , I am on an exciting journey towards LMMs and feeling the AGI.</p>
 Besides, I'm on my way to becoming a full-stack developer (with VibeCoding 😎), and spend 2% of my free time developing webgames.
 
+<!-- Start of Selection -->
 <h2>🚀 Previous Projects:</h2>
 <p><strong><em>✨Stay Tuned for more wonderful research. ✨</em></strong></p>
+<!-- Project 1: Aero-1 -->
+<a href="https://github.com/EvolvingLMMs-Lab/Aero-1" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=EvolvingLMMs-Lab&repo=Aero-1&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Aero-1 Card" />
+</a>
+<blockquote>
+  <p>🚀 Introducing <strong>Aero-1-Audio</strong> — a compact yet mighty audio model.</p>
+  <ul>
+    <li>⚡ Trained in &lt;24h on just 16×H100</li>
+    <li>🎧 Handles 15+ min audio seamlessly</li>
+    <li>💡 Outperforms bigger models like Whisper, Qwen-2-Audio & commercial services from ElevenLabs/Scribe</li>
+  </ul>
+</blockquote>
+<hr />
 
-<table>
-  <tr>
-    <!-- Project 1 -->
-    <td style="vertical-align: top; padding: 10px; width: 50%;">
-      <a href="https://github.com/EvolvingLMMs-Lab/Aero-1" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=EvolvingLMMs-Lab&repo=Aero-1&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Aero-1 Card" />
-      </a>
-      <p>
-        🚀 <strong>Aero-1-Audio</strong> — a compact yet mighty audio model.<br>
-        ⚡ Trained in &lt;24h on just 16×H100<br>
-        🎧 Handles 15+ min audio seamlessly<br>
-        💡 Outperforms bigger models like Whisper, Qwen-2-Audio & commercial services from ElevenLabs/Scribe
-      </p>
-    </td>
+<!-- Project 2: EgoLife -->
+<a href="https://github.com/EvolvingLMMs-Lab/EgoLife" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin?username=EvolvingLMMs-Lab&repo=EgoLife&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Customized Card" />
+</a>
+<blockquote>
+  <p>In the amazing journey towards creating 👓 <strong>egocentric life-long intelligence</strong>, I gained extensive experience in curating and training egocentric MLLMs with multimodal inputs (audios, videos, IMU, etc.).</p>
+</blockquote>
+<hr />
 
-    <!-- Project 2 -->
-    <td style="vertical-align: top; padding: 10px; width: 50%;">
-      <a href="https://github.com/EvolvingLMMs-Lab/EgoLife" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=EvolvingLMMs-Lab&repo=EgoLife&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="EgoLife Card" />
-      </a>
-      <p>
-        👓 <strong>Egocentric Life-long Intelligence</strong><br>
-        Experience in curating and training egocentric MLLMs with multimodal inputs (audio, video, IMU, etc.)
-      </p>
-    </td>
-  </tr>
+<!-- Project 3: Octopus -->
+<a href="https://github.com/dongyh20/Octopus" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin?username=dongyh20&repo=Octopus&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Customized Card" />
+</a>
+<blockquote>
+  <p>Gained experience in utilizing VLMs for embodied code execution.</p>
+  <p>I also had the opportunity to work as a temporary 🎮 game developer, learning how to compile C# plugins for GTA-V and TypeScript for Minecraft.</p>
+</blockquote>
+<hr />
 
-  <tr>
-    <!-- Project 3 -->
-    <td style="vertical-align: top; padding: 10px; width: 50%;">
-      <a href="https://github.com/dongyh20/Octopus" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=dongyh20&repo=Octopus&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Octopus Card" />
-      </a>
-      <p>
-        🧠 Experience with VLMs for embodied code execution.<br>
-        🎮 Built C# plugins for GTA-V and TypeScript logic for Minecraft.
-      </p>
-    </td>
-
-    <!-- Project 4 -->
-    <td style="vertical-align: top; padding: 10px; width: 50%;">
-      <a href="https://github.com/EvolvingLMMs-Lab/lmms-eval" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=EvolvingLMMs-Lab&repo=lmms-eval&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="lmms-eval Card" />
-      </a>
-      <p>
-        🕸️ <strong>LMMs Evaluation</strong><br>
-        Learned evaluation philosophy and built multinode inference + multiprocessing pipelines.
-      </p>
-    </td>
-  </tr>
-</table>
+<!-- Project 4: lmms-eval -->
+<a href="https://github.com/EvolvingLMMs-Lab/lmms-eval" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin?username=EvolvingLMMs-Lab&repo=lmms-eval&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Customized Card" />
+</a>
+<blockquote>
+  <p>There, I learned the philosophy of 🕸️<strong>LMMs Evaluation</strong> and gained valuable development experience in multinode model inference and multiprocessing for evaluation.</p>
+  
+</blockquote>
+<hr />
 
 
 
