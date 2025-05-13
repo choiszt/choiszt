@@ -23,14 +23,18 @@ Besides, I'm on my way to becoming a full-stack developer (with VibeCoding 😎)
 <hr />
 
 <!-- Project 2: EgoLife -->
+<a href="https://github.com/EvolvingLMMs-Lab/EgoLife" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api/pin?username=EvolvingLMMs-Lab&repo=EgoLife&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Customized Card" />
+</a>
 <blockquote>
-  <p>In the amazing journey towards creating 👓<strong>egocentric life-long intelligence</strong>, I gained extensive experience in curating and training egocentric MLLMs with multimodal inputs (audios, videos, IMU, etc.).</p>
+  <p>In the amazing journey towards creating 👓 <strong>egocentric life-long intelligence</strong>, I gained extensive experience in curating and training egocentric MLLMs with multimodal inputs (audios, videos, IMU, etc.).</p>
 </blockquote>
 <hr />
 
 <!-- Project 3: Octopus -->
+<a href="https://github.com/dongyh20/Octopus" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api/pin?username=dongyh20&repo=Octopus&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Customized Card" />
+</a>
 <blockquote>
   <p>Gained experience in utilizing VLMs for embodied code execution.</p>
   <p>I also had the opportunity to work as a temporary 🎮 game developer, learning how to compile C# plugins for GTA-V and TypeScript for Minecraft.</p>
@@ -38,7 +42,9 @@ Besides, I'm on my way to becoming a full-stack developer (with VibeCoding 😎)
 <hr />
 
 <!-- Project 4: lmms-eval -->
+<a href="https://github.com/EvolvingLMMs-Lab/lmms-eval" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api/pin?username=EvolvingLMMs-Lab&repo=lmms-eval&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Customized Card" />
+</a>
 <blockquote>
   <p>There, I learned the philosophy of 🕸️<strong>LMMs Evaluation</strong> and gained valuable development experience in multinode model inference and multiprocessing for evaluation.</p>
   <p><strong><em>✨Stay Tuned for more wonderful research. ✨</em></strong></p>
