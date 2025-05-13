@@ -9,7 +9,9 @@ Besides, I'm on my way to becoming a full-stack developer (with VibeCoding 😎)
 <h2>🚀 Previous Projects:</h2>
 
 <!-- Project 1: Aero-1 -->
-<img src="https://github-readme-stats.vercel.app/api/pin?username=EvolvingLMMs-Lab&repo=Aero-1&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Customized Card" />
+<a href="https://github.com/EvolvingLMMs-Lab/Aero-1" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=EvolvingLMMs-Lab&repo=Aero-1&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Aero-1 Card" />
+</a>
 <blockquote>
   <p>🚀 Introducing <strong>Aero-1-Audio</strong> — a compact yet mighty audio model.</p>
   <ul>
