@@ -2,7 +2,7 @@
 
 <p>🔍 My research focus on <strong>Multimodality</strong> and <strong>Egocentric AI</strong>.<br>
 As a member of  <a href="https://www.lmms-lab.com/" target="_blank">LMMs-Lab</a> , I am on an exciting journey towards LMMs and feeling the AGI.</p>
-Besides, I'm on my way to becoming a full-stack developer (with VibeCoding 😎), and spend 2% of my free time developing webgames.
+Besides, I'm on my way to becoming a full-stack developer (with VibeCoding 🤣), and spend 2% of my free time developing webgames.
 
 <h2>🚀 Previous Projects:</h2>
 <p><strong><em>✨Stay Tuned for more wonderful research. ✨</em></strong></p>
@@ -41,7 +41,7 @@ Besides, I'm on my way to becoming a full-stack developer (with VibeCoding 😎)
       </a>
       <blockquote>
         <p>Gained experience in utilizing VLMs for embodied code execution.</p>
-        <p>Also worked as a temporary 🎮 game developer, compiling C# plugins for GTA-V and TypeScript for Minecraft.</p>
+        <p>Also worked as a temporary 🥷 game hacker (for research purpose), compiling C# plugins for GTA-V and TypeScript for Minecraft.</p>
       </blockquote>
     </td>
     <td style="vertical-align: top; width: 50%; padding-left: 10px;">
