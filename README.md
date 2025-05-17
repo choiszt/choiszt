@@ -50,7 +50,7 @@ Besides, I'm on my way to becoming a full-stack developer (with VibeCoding 🤣)
              style="height: 150px;" />
       </a>
       <blockquote>
-        <p>There, I learned the philosophy of 🕸️<strong>LMMs Evaluation</strong> and gained experience in multinode model inference and multiprocessing.</p>
+        <p>There, I learned the principles of 🕸️<strong>LMMs Evaluation</strong> and was the main contributor in customizing new LMMs, implementing multi-node model inference and multiprocessing.</p>
       </blockquote>
     </td>
   </tr>
