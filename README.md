@@ -68,12 +68,6 @@ Besides, I'm on my way to becoming a full-stack developer (with VibeCoding 🤣)
          style="height: 200px;" />
   </a>
 
-  <a href="https://github.com/choiszt">
-    <img src="https://github-readme-stats.vercel.app/api?username=choiszt&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" 
-         alt="Choiszt's GitHub Stats" 
-         style="height: 200px;" />
-  </a>
-
 </div>
 
 <h2>📬 Get in Touch</h2>
